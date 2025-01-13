@@ -5,3 +5,5 @@ build/
 __pycache__/*
 stocks_historical/__pycache__/*
 debug.py
+stocks_historical.egg-info
+stocks_historical.egg-info/*
