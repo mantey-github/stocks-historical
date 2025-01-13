@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="stocks_historical",
-    version="1.0.1",
+    version="1.0.2",
     author="Daniel Mantey",
     author_email="contactmantey@gmail.com",
     description="A Python package to access historical stock data for NASDAQ and NYSE.",
