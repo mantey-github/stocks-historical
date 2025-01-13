@@ -9,6 +9,7 @@ setup(
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
     url="https://github.com/mantey-github/stocks-historical",
+    download_url="https://github.com/mantey-github/stocks-historical/releases",
     packages=find_packages(),
     install_requires=["requests", "pandas", "setuptools"],
     classifiers=[
