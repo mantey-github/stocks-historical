@@ -1,6 +1,6 @@
 # Stocks Historical Library 📊
 
-A Python library to access historical stock data for NASDAQ and NYSE markets. This library simplifies fetching and formatting stock data using the [Stocks Historical API](https://github.com/mantey-github/stock-fetcher-api). It is designed for developers and data analysts who want to quickly retrieve and analyze stock data programmatically.
+A Python library for accessing historical stock data from major stock exchanges and equity markets. This library simplifies the process of fetching and formatting stock data using the [Stocks Historical API](https://github.com/mantey-github/stock-fetcher-api), making it easy to retrieve and analyze stock data programmatically. Currently, it supports data for top 100 stocks from NYSE and NASDAQ markets, with plans to include data from additional markets in the future.
 
 Library inspired by [Yahoo Historical](https://github.com/AndrewRPorter/yahoo-historical).
 
