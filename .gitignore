@@ -1,0 +1,7 @@
+dist
+.idea/
+.vscode/
+build/
+__pycache__/*
+stocks_historical/__pycache__/*
+debug.py

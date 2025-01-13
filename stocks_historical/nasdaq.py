@@ -1,7 +1,7 @@
 from .fetcher import Fetcher
 
 class Nasdaq(Fetcher):
-    def __init__(self, symbol: str, start: int, end: int):
+    def __init__(self, symbol: str, start: str, end: str = None):
         super().__init__(market="nasdaq", symbol=symbol, start=start, end=end)
 
     def get_data(self):

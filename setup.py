@@ -10,7 +10,7 @@ setup(
     long_description_content_type="text/markdown",
     url="https://github.com/mantey-github/stock-fetcher",
     packages=find_packages(),
-    install_requires=["requests"],
+    install_requires=["requests", "pandas", "setuptools"],
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
